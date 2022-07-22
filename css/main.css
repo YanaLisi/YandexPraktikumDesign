@@ -56,11 +56,11 @@ nav {
 }
 
 .right {
-	transform: translateX(100%);
+	transform: translateX(80%);
 }
 
 .left {
-	transform: translateX(-100%);
+	transform: translateX(-80%);
 }
 
 .main-window-home {
